@@ -1,0 +1,10 @@
+Te paso el enunciado
+
+Debes descargar los datos de aqui: https://insideairbnb.com/get-the-data/ Elegir la ciudad que mas te guste, 
+te recomiende que elijas una que te llame la atención, así el proyecto te resulta más interesante. 
+Una vez elegida la ciudad debes descargar al menos el fichero  “listings.csv”. Si crees que necesitas otros ficheros de los disponibles 
+para el análisis puedes descargarlos también. 
+Puedes preguntar dudas en el horario lectivo de soporte de proyecto o enviándome un mensajito. La fecha de entrega es el 7 de febrero, 
+solo es necesario que me envies el repositorio en Github. Y muy importante: Este repo además de contener el código, 
+debe tener un infome detallando los resultados obtenidosY no subas el fichero de “listings.csv” al repo, 
+te dará error Github porque es muy grande.
