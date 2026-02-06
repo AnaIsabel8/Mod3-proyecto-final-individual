@@ -179,12 +179,6 @@ Los barrios con mayor disponibilidad media son:
 #### Relación entre disponibilidad y precio
 Los alojamientos con menor disponibilidad tienden a tener precios más altos, lo que sugiere una mayor demanda.
 
----
-
-## Fase 4: Diseño de base de datos (Bonus)
-
-Como parte del bonus del proyecto, se diseñó una base de datos utilizando **SQLite**.  
-Se implementó una función en Python que permite insertar automáticamente los datos transformados desde un DataFrame a una tabla SQL, facilitando la reutilización y escalabilidad del proyecto.
 
 ---
 
